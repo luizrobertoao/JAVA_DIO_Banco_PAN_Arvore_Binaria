@@ -8,7 +8,7 @@ public class BinNo<T extends Comparable<T>> {
 
     public BinNo(T conteudo) {
         this.conteudo = conteudo;
-        this.noEsq = this.noDir = 0;
+        this.noEsq = this.noDir = null;
     }
     public BinNo() {
     }
