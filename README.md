@@ -7,6 +7,7 @@ Projeto desenvolvido para estudo e entendimento de uma estrutura de árvore bin�
 
 > ### Em uma estrutura de árvore binária (ArvoreBinaria) composta por objetos (BinNo) criar os métodos:
 > - **inserir()** -> Insere um objeto na estrutura da árvore.
+> - **remover()** -> Remove um objeto da estrutura da árvore.
 >
 > 
 > -  ***Métodos de exibição:***
